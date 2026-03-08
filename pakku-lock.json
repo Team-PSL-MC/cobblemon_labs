@@ -1,0 +1,3803 @@
+{
+    "target": "curseforge",
+    "mc_versions": [
+        "1.21.1"
+    ],
+    "loaders": {
+        "fabric": "0.18.4"
+    },
+    "projects": [
+        {
+            "pakku_id": "xrBKEfVswI1OM00F",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "accessories"
+            },
+            "name": {
+                "curseforge": "Accessories"
+            },
+            "id": {
+                "curseforge": "938917"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "accessories-fabric-1.1.0-beta.53+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7583/323/accessories-fabric-1.1.0-beta.53+1.21.1.jar",
+                    "id": "7583323",
+                    "parent_id": "938917",
+                    "hashes": {
+                        "sha1": "fa0b11de088893bb14aff945d0e8efdee165457b",
+                        "md5": "1f332447eadf66a07b33e641816fcd5e"
+                    },
+                    "required_dependencies": [
+                        "532610",
+                        "306612"
+                    ],
+                    "size": 1095802,
+                    "date_published": "2026-02-06T07:38:25.363Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "EtiXDtWAP63iiDIE",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "altorigingui"
+            },
+            "name": {
+                "curseforge": "Alternate Origin GUI"
+            },
+            "id": {
+                "curseforge": "873788"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "altorigingui-1.1.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6324/410/altorigingui-1.1.3.jar",
+                    "id": "6324410",
+                    "parent_id": "873788",
+                    "hashes": {
+                        "sha1": "279784a7fdb98fd67ba3519d1c4171ec249baa29",
+                        "md5": "f574601339f8fc9c1bf74425bd8b6fcf"
+                    },
+                    "required_dependencies": [
+                        "391943"
+                    ],
+                    "size": 52212,
+                    "date_published": "2025-03-20T05:18:10.653Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "QXiiyEZJsGH3bjdh",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "appleskin"
+            },
+            "name": {
+                "curseforge": "AppleSkin"
+            },
+            "id": {
+                "curseforge": "248787"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "appleskin-fabric-mc1.21-3.0.6.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5864/741/appleskin-fabric-mc1.21-3.0.6.jar",
+                    "id": "5864741",
+                    "parent_id": "248787",
+                    "hashes": {
+                        "sha1": "97452cfadfde1f8f8c67838643019eabafa58fbb",
+                        "md5": "a24c435e84973afd607e20395ecba19d"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1082585,
+                    "date_published": "2024-11-01T06:14:34.050Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "9vVILmBtXiVZ30Q3",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "architectury-api"
+            },
+            "name": {
+                "curseforge": "Architectury API"
+            },
+            "id": {
+                "curseforge": "419699"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "architectury-13.0.8-fabric.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5786/326/architectury-13.0.8-fabric.jar",
+                    "id": "5786326",
+                    "parent_id": "419699",
+                    "hashes": {
+                        "sha1": "e71346a43c563e5784580dd096338acfb45f49d4",
+                        "md5": "702e92d09a4855c6c8aa9e738a48efa4"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 600915,
+                    "date_published": "2024-10-05T19:24:05.173Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "QQPPsAw4IHF2o0PK",
+            "pakku_links": [
+                "o4sAB7YyzQMSbTl7"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "athena"
+            },
+            "name": {
+                "curseforge": "Athena"
+            },
+            "id": {
+                "curseforge": "841890"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "athena-fabric-1.21-4.0.2.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6669/523/athena-fabric-1.21-4.0.2.jar",
+                    "id": "6669523",
+                    "parent_id": "841890",
+                    "hashes": {
+                        "sha1": "d79183521f9bcb043ebdc6438f1987e46c12a067",
+                        "md5": "15aefefa313da7447f53b2276e0d0645"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 82788,
+                    "date_published": "2025-06-19T03:54:11.800Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "rZFnjqRfgc3TFZUZ",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "balm-fabric"
+            },
+            "name": {
+                "curseforge": "Balm (Fabric Edition)"
+            },
+            "id": {
+                "curseforge": "500525"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "balm-fabric-1.21.1-21.0.56.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7420/960/balm-fabric-1.21.1-21.0.56.jar",
+                    "id": "7420960",
+                    "parent_id": "500525",
+                    "hashes": {
+                        "sha1": "0377b2e07551dc9fbcb40b94a3d38e098cd85d7e",
+                        "md5": "38b7a4a058adde9328d48240effda68c"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 773504,
+                    "date_published": "2026-01-05T13:49:34.607Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "VMzGWF2yW4TqRkiM",
+            "pakku_links": [
+                "gsa5Jhygp6GfhDWh",
+                "xrBKEfVswI1OM00F",
+                "9vVILmBtXiVZ30Q3",
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "berry-pouch"
+            },
+            "name": {
+                "curseforge": "Berry Pouch [Cobblemon]"
+            },
+            "id": {
+                "curseforge": "1246510"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "berrypouch-fabric-1.21.1-0.5.4-beta.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7583/805/berrypouch-fabric-1.21.1-0.5.4-beta.jar",
+                    "id": "7583805",
+                    "parent_id": "1246510",
+                    "hashes": {
+                        "sha1": "4da1df73d266fa9c26d7c950fb4a6acf06a20ddc",
+                        "md5": "70766f18c99220f12cd214aed47a8dcb"
+                    },
+                    "required_dependencies": [
+                        "938917",
+                        "547434",
+                        "419699",
+                        "687131"
+                    ],
+                    "size": 290288,
+                    "date_published": "2026-02-06T10:42:36.440Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "jZIlWy7CaItbuZCJ",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "crd-converters"
+            },
+            "name": {
+                "curseforge": "CRD Converters"
+            },
+            "id": {
+                "curseforge": "1358561"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "crd_converters-fabric-1.1.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7500/409/crd_converters-fabric-1.1.0+1.21.1.jar",
+                    "id": "7500409",
+                    "parent_id": "1358561",
+                    "hashes": {
+                        "sha1": "5f04809a26a4d873099008b23f3389198651e3ec",
+                        "md5": "44090814427d9f65521a0ea5a128930e"
+                    },
+                    "required_dependencies": [
+                        "1349231"
+                    ],
+                    "size": 1090228,
+                    "date_published": "2026-01-21T12:34:15.367Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "jn4X3ClVr2TZngeh",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "chipped"
+            },
+            "name": {
+                "curseforge": "Chipped"
+            },
+            "id": {
+                "curseforge": "456956"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "chipped-fabric-1.21.1-4.0.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5813/118/chipped-fabric-1.21.1-4.0.2.jar",
+                    "id": "5813118",
+                    "parent_id": "456956",
+                    "hashes": {
+                        "sha1": "add18f65d7b131e05313cd98069cb71adac3483c",
+                        "md5": "c98271e7ba961e78e4a589fc53fa71a2"
+                    },
+                    "required_dependencies": [
+                        "570073",
+                        "306612",
+                        "841890"
+                    ],
+                    "size": 15016830,
+                    "date_published": "2024-10-15T00:53:01.900Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "lKOpiigZdfZUh9LV",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cloth-config"
+            },
+            "name": {
+                "curseforge": "Cloth Config API (Fabric/Forge/NeoForge)"
+            },
+            "id": {
+                "curseforge": "348521"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cloth-config-15.0.140-fabric.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1-Snapshot",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5729/125/cloth-config-15.0.140-fabric.jar",
+                    "id": "5729125",
+                    "parent_id": "348521",
+                    "hashes": {
+                        "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4",
+                        "md5": "a2c091b027ad6ba8e54b07020fd45884"
+                    },
+                    "required_dependencies": [],
+                    "size": 1157166,
+                    "date_published": "2024-09-16T17:17:50.607Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "zABk11ecW0V1Hskn",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "clumps"
+            },
+            "name": {
+                "curseforge": "Clumps"
+            },
+            "id": {
+                "curseforge": "256717"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Clumps-fabric-1.21.1-19.0.0.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5623/729/Clumps-fabric-1.21.1-19.0.0.1.jar",
+                    "id": "5623729",
+                    "parent_id": "256717",
+                    "hashes": {
+                        "sha1": "14628ba309d876cfefc4cef864a66ef12812066c",
+                        "md5": "8715713c6b63565a5eafb4c925275035"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 20723,
+                    "date_published": "2024-08-13T07:49:05.263Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "9G02ofIRMjBb9chb",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobbledollars"
+            },
+            "name": {
+                "curseforge": "CobbleDollars [Cobblemon Addon]"
+            },
+            "id": {
+                "curseforge": "859232"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6604/561/CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar",
+                    "id": "6604561",
+                    "parent_id": "859232",
+                    "hashes": {
+                        "sha1": "48a2a30fb22e088ca9357fc95bdb4247ddc80b17",
+                        "md5": "1c38ad40c554bd82109d778daa95ecfe"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "687131"
+                    ],
+                    "size": 369528,
+                    "date_published": "2025-06-01T09:30:31.347Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "aZiMBDH42M9qsEST",
+            "pakku_links": [
+                "9vVILmBtXiVZ30Q3",
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblefurnies"
+            },
+            "name": {
+                "curseforge": "CobbleFurnies"
+            },
+            "id": {
+                "curseforge": "1188698"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CobbleFurnies-fabric-1.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7302/40/CobbleFurnies-fabric-1.0.jar",
+                    "id": "7302040",
+                    "parent_id": "1188698",
+                    "hashes": {
+                        "sha1": "b174451734d3a424fa239612a5814572f76f77db",
+                        "md5": "a194d0647f3ed6a8deab689f4e933d48"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "687131",
+                        "841890",
+                        "419699"
+                    ],
+                    "size": 2319618,
+                    "date_published": "2025-12-06T22:05:04.243Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "BMX4me4j71J1KAoa",
+            "type": "DATA_PACK",
+            "slug": {
+                "curseforge": "cobbledstops"
+            },
+            "name": {
+                "curseforge": "CobbledStops"
+            },
+            "id": {
+                "curseforge": "1353024"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CobbledStops 1.1.zip",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7251/261/CobbledStops 1.1.zip",
+                    "id": "7251261",
+                    "parent_id": "1353024",
+                    "hashes": {
+                        "sha1": "3ed91c9c885b1ea073b275ba4195dc37c20271d6",
+                        "md5": "4fa85abb1282a0ac73c7ca3c944dd4b7"
+                    },
+                    "required_dependencies": [],
+                    "size": 27407,
+                    "date_published": "2025-11-23T00:19:21.810Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "QB0QUFN9x9ngNYwA",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon"
+            },
+            "name": {
+                "curseforge": "Cobblemon"
+            },
+            "id": {
+                "curseforge": "687131"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Cobblemon-fabric-1.7.3+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7553/235/Cobblemon-fabric-1.7.3+1.21.1.jar",
+                    "id": "7553235",
+                    "parent_id": "687131",
+                    "hashes": {
+                        "sha1": "f192cda3fdfec0f20d1dee1887ec1b9e77b1618c",
+                        "md5": "1de64f280372ec94e4376976fb579d52"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 135801550,
+                    "date_published": "2026-01-31T01:18:50.410Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "lerEKzUTKRWsZRWX",
+            "pakku_links": [
+                "9vVILmBtXiVZ30Q3",
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-alpha-project"
+            },
+            "name": {
+                "curseforge": "Cobblemon Alpha Project"
+            },
+            "id": {
+                "curseforge": "1203085"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemonalphas-1.4.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7631/37/cobblemonalphas-1.4.1.jar",
+                    "id": "7631037",
+                    "parent_id": "1203085",
+                    "hashes": {
+                        "sha1": "10cb391a4bbf2a2ca342dad214c1230f175ce817",
+                        "md5": "070a810976147453fb9eb57d1facd811"
+                    },
+                    "required_dependencies": [
+                        "419699",
+                        "687131"
+                    ],
+                    "size": 510732,
+                    "date_published": "2026-02-15T22:18:51.233Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ifnCSGs0JUDm55iR",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-capture-xp"
+            },
+            "name": {
+                "curseforge": "Cobblemon Capture XP"
+            },
+            "id": {
+                "curseforge": "901059"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "capturexp-fabric-1.7.3-1.3.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7568/498/capturexp-fabric-1.7.3-1.3.0.jar",
+                    "id": "7568498",
+                    "parent_id": "901059",
+                    "hashes": {
+                        "sha1": "fe935920b30c7cce657c2fa5e4dd27f36ea640cf",
+                        "md5": "e6fc02948bb7b46b6554bc6df987e6f2"
+                    },
+                    "required_dependencies": [
+                        "687131",
+                        "1295910"
+                    ],
+                    "size": 22848,
+                    "date_published": "2026-02-02T23:48:16.220Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "asH9AKJKDpuvZok1",
+            "pakku_links": [
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-emi"
+            },
+            "name": {
+                "curseforge": "Cobblemon EMI"
+            },
+            "id": {
+                "curseforge": "1406480"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobbleemi-fabric-1.1.4-for-cobblemon-1.7.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7657/358/cobbleemi-fabric-1.1.4-for-cobblemon-1.7.3.jar",
+                    "id": "7657358",
+                    "parent_id": "1406480",
+                    "hashes": {
+                        "sha1": "752a7d2d07f0080c53437a43ae85b0edf5966104",
+                        "md5": "e2fe2c8cf84542bce32ef6fe67ab31fa"
+                    },
+                    "required_dependencies": [
+                        "580555",
+                        "687131"
+                    ],
+                    "size": 82575,
+                    "date_published": "2026-02-21T09:12:04.383Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Y0W6xX27jWybdFFw",
+            "pakku_links": [
+                "o4sAB7YyzQMSbTl7",
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-expeditions"
+            },
+            "name": {
+                "curseforge": "Cobblemon Expeditions"
+            },
+            "id": {
+                "curseforge": "1470428"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemon-expeditions-1.1.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7710/696/cobblemon-expeditions-1.1.2.jar",
+                    "id": "7710696",
+                    "parent_id": "1470428",
+                    "hashes": {
+                        "sha1": "f6d94bc47c72475aa01738950b709f24a0ba6935",
+                        "md5": "ef36b6f22da83677ddda5285c4b8961b"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "687131"
+                    ],
+                    "size": 563953,
+                    "date_published": "2026-03-04T16:22:40.180Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bPXQFjt52caR2SBs",
+            "pakku_links": [
+                "9vVILmBtXiVZ30Q3",
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-grass-spawn"
+            },
+            "name": {
+                "curseforge": "Cobblemon Grass Spawn"
+            },
+            "id": {
+                "curseforge": "1452075"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemongrassspawn-fabric-1.0.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7599/330/cobblemongrassspawn-fabric-1.0.2.jar",
+                    "id": "7599330",
+                    "parent_id": "1452075",
+                    "hashes": {
+                        "sha1": "b0cb729b8061bc85f28c9d15b87b4b3ac7565339",
+                        "md5": "23a026dfa977797b69cec94cbf036b70"
+                    },
+                    "required_dependencies": [
+                        "419699",
+                        "687131"
+                    ],
+                    "size": 408898,
+                    "date_published": "2026-02-09T13:13:31.937Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "XOPPtEaTLd1JXOCQ",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-home"
+            },
+            "name": {
+                "curseforge": "Cobblemon Home"
+            },
+            "id": {
+                "curseforge": "1408366"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemon_home-fabric-2.5.9.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7479/517/cobblemon_home-fabric-2.5.9.jar",
+                    "id": "7479517",
+                    "parent_id": "1408366",
+                    "hashes": {
+                        "sha1": "7274d15a211c0ea5b27c21e277d82813438461b2",
+                        "md5": "854ca4b71317ca25840f2e3de31cc04d"
+                    },
+                    "required_dependencies": [],
+                    "size": 14676008,
+                    "date_published": "2026-01-18T08:23:28.730Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "rBbqxycAmC8EO9Vh",
+            "pakku_links": [
+                "gsa5Jhygp6GfhDWh",
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-integrations"
+            },
+            "name": {
+                "curseforge": "Cobblemon Integrations"
+            },
+            "id": {
+                "curseforge": "913400"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemonintegrations-fabric-1.21.1-1.1.6.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7673/567/cobblemonintegrations-fabric-1.21.1-1.1.6.jar",
+                    "id": "7673567",
+                    "parent_id": "913400",
+                    "hashes": {
+                        "sha1": "859df6c437ca35bbde803e46b8902dab8f192b45",
+                        "md5": "90e5df694ce88be4c0d95673a71b2036"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "308769",
+                        "547434",
+                        "687131"
+                    ],
+                    "size": 373321,
+                    "date_published": "2026-02-24T19:02:11.500Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "OTm9T40o0ohyxHom",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "cobblemon-interface"
+            },
+            "name": {
+                "curseforge": "Cobblemon Interface"
+            },
+            "id": {
+                "curseforge": "860898"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Cobblemon Interface v1.6.0.zip",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7220/886/Cobblemon Interface v1.6.0.zip",
+                    "id": "7220886",
+                    "parent_id": "860898",
+                    "hashes": {
+                        "sha1": "f91aa128e036b579fc687e55f9b9a240e3fbf65a",
+                        "md5": "03cacbf0b647173ae6707cc74c10866c"
+                    },
+                    "required_dependencies": [],
+                    "size": 14108266,
+                    "date_published": "2025-11-14T13:22:56.410Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "6ImWrzuuP2b3Kh2R",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "cobblemon-interface-modded"
+            },
+            "name": {
+                "curseforge": "Cobblemon Interface: Modded"
+            },
+            "id": {
+                "curseforge": "989454"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Cobblemon Interface Modded v1.9.4.zip",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7057/797/Cobblemon Interface Modded v1.9.4.zip",
+                    "id": "7057797",
+                    "parent_id": "989454",
+                    "hashes": {
+                        "sha1": "0599cd556bafd67537690ebe037bc7e4a88c2542",
+                        "md5": "4f305a75335c85bbc1c0cb789a6e14e2"
+                    },
+                    "required_dependencies": [],
+                    "size": 1053517,
+                    "date_published": "2025-10-02T14:01:14.343Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Do2EVc9CmwregTjQ",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-journey-mounts"
+            },
+            "name": {
+                "curseforge": "Cobblemon Journey Mounts"
+            },
+            "id": {
+                "curseforge": "1401442"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemon-journey-mounts-1.7.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7516/317/cobblemon-journey-mounts-1.7.2.jar",
+                    "id": "7516317",
+                    "parent_id": "1401442",
+                    "hashes": {
+                        "sha1": "e9934906ef119dc7ab1001f72d4e7b23c2f73220",
+                        "md5": "2a4ad4c0c2574a53780070c65f8fbd50"
+                    },
+                    "required_dependencies": [],
+                    "size": 7368421,
+                    "date_published": "2026-01-24T07:44:50.493Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Ne4FjlouorVhr8nh",
+            "pakku_links": [
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-mass-outbreaks"
+            },
+            "name": {
+                "curseforge": "Cobblemon Mass Outbreaks"
+            },
+            "id": {
+                "curseforge": "864569"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemonoutbreaks-fabric-1.0.0-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6720/759/cobblemonoutbreaks-fabric-1.0.0-1.21.1.jar",
+                    "id": "6720759",
+                    "parent_id": "864569",
+                    "hashes": {
+                        "sha1": "ff67ad7a4a9dccd9dd3ecc81ac061b855ff083b2",
+                        "md5": "2a0a25e761b5fbc51f5c00983b44bfbb"
+                    },
+                    "required_dependencies": [
+                        "687131"
+                    ],
+                    "size": 239316,
+                    "date_published": "2025-07-02T11:56:08.080Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "6vOnQBUqehGbsjUy",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-party-extras"
+            },
+            "name": {
+                "curseforge": "Cobblemon Party Extras"
+            },
+            "id": {
+                "curseforge": "1410893"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemon_party_extras-fabric-1.6.12.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7702/392/cobblemon_party_extras-fabric-1.6.12.jar",
+                    "id": "7702392",
+                    "parent_id": "1410893",
+                    "hashes": {
+                        "sha1": "f190b843a2cf3031f37dd60536c57ddbf726f44a",
+                        "md5": "1ea029ea70fa01e937e1af13780f4a67"
+                    },
+                    "required_dependencies": [],
+                    "size": 623903,
+                    "date_published": "2026-03-02T19:38:24.803Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "0wGAHLvABcWM0yrd",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-pokenav"
+            },
+            "name": {
+                "curseforge": "Cobblemon Pokenav"
+            },
+            "id": {
+                "curseforge": "976014"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblenav-fabric-2.2.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7248/475/cobblenav-fabric-2.2.5.jar",
+                    "id": "7248475",
+                    "parent_id": "976014",
+                    "hashes": {
+                        "sha1": "c99fa8de40a178ce57d6ca92cadec268308f3b25",
+                        "md5": "f6f1a2fbba01767ec6eb235cc1334650"
+                    },
+                    "required_dependencies": [
+                        "687131"
+                    ],
+                    "size": 780131,
+                    "date_published": "2025-11-22T08:08:45.743Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "3BgEK2rqi6BByZUK",
+            "pakku_links": [
+                "a6sXryDltHUTO3P5",
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemonraiddens"
+            },
+            "name": {
+                "curseforge": "Cobblemon Raid Dens"
+            },
+            "id": {
+                "curseforge": "1349231"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemonraiddens-fabric-0.8.2+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7722/571/cobblemonraiddens-fabric-0.8.2+1.21.1.jar",
+                    "id": "7722571",
+                    "parent_id": "1349231",
+                    "hashes": {
+                        "sha1": "77a322067d114e3cff37d919c15511089b003068",
+                        "md5": "401ec38a0a29799c2d5c839c4aac5a2d"
+                    },
+                    "required_dependencies": [
+                        "687131",
+                        "388172"
+                    ],
+                    "size": 2567784,
+                    "date_published": "2026-03-07T04:16:31.983Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ZdfGhP7B5JJW4F64",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-scoremons"
+            },
+            "name": {
+                "curseforge": "Cobblemon Scoremons"
+            },
+            "id": {
+                "curseforge": "1210408"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Scoremons-3.2+Cobblemon-1.7.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7558/440/Scoremons-3.2+Cobblemon-1.7.3.jar",
+                    "id": "7558440",
+                    "parent_id": "1210408",
+                    "hashes": {
+                        "sha1": "11fcabc2243131101e4eda89ab0ff78967136283",
+                        "md5": "1704ebe1f92f0cff9d40fe6371190721"
+                    },
+                    "required_dependencies": [],
+                    "size": 38664,
+                    "date_published": "2026-02-01T01:54:51.703Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "hUkN55Z96xOWSf1A",
+            "pakku_links": [
+                "9vVILmBtXiVZ30Q3",
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-size-variations"
+            },
+            "name": {
+                "curseforge": "Cobblemon Size Variations"
+            },
+            "id": {
+                "curseforge": "1190578"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CobblemonSizeVariationFabric-1.4.0+1.7.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7257/645/CobblemonSizeVariationFabric-1.4.0+1.7.0.jar",
+                    "id": "7257645",
+                    "parent_id": "1190578",
+                    "hashes": {
+                        "sha1": "3ac2ff9fffc811ce1570a09161779858685e633a",
+                        "md5": "3f5c98d3a10f501cee9fc0f4921fe594"
+                    },
+                    "required_dependencies": [
+                        "419699",
+                        "687131"
+                    ],
+                    "size": 97158,
+                    "date_published": "2025-11-24T14:52:05.323Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "YxOWH4z4727RPwfo",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-snap"
+            },
+            "name": {
+                "curseforge": "Cobblemon Snap"
+            },
+            "id": {
+                "curseforge": "1446976"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemon_snap-fabric-1.1.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7711/252/cobblemon_snap-fabric-1.1.2.jar",
+                    "id": "7711252",
+                    "parent_id": "1446976",
+                    "hashes": {
+                        "sha1": "700aa23171b6b989ce3a5376102454d99fc388b6",
+                        "md5": "2dc45609542f693980e618deb271debf"
+                    },
+                    "required_dependencies": [
+                        "419699"
+                    ],
+                    "size": 5070835,
+                    "date_published": "2026-03-04T18:59:04.507Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "5gLCvjFLxBpMeoLN",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-tim-core"
+            },
+            "name": {
+                "curseforge": "Cobblemon Tim Core"
+            },
+            "id": {
+                "curseforge": "1295910"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "timcore-fabric-1.7.3-1.31.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7567/51/timcore-fabric-1.7.3-1.31.0.jar",
+                    "id": "7567051",
+                    "parent_id": "1295910",
+                    "hashes": {
+                        "sha1": "509129949a45f95b1150b4da4a222f7beed3de6b",
+                        "md5": "58daa4a59a02d8e94578828744cbbdc7"
+                    },
+                    "required_dependencies": [
+                        "687131"
+                    ],
+                    "size": 297587,
+                    "date_published": "2026-02-02T17:58:17.217Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "oobjdobLJWlcplLJ",
+            "pakku_links": [
+                "9G02ofIRMjBb9chb"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-villager-overhaul"
+            },
+            "name": {
+                "curseforge": "Cobblemon Villager overhaul  - [ADDON]"
+            },
+            "id": {
+                "curseforge": "1457672"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobbledollars-villagers-overhaul-rca-fabric-0.1.1.6.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7673/561/cobbledollars-villagers-overhaul-rca-fabric-0.1.1.6.jar",
+                    "id": "7673561",
+                    "parent_id": "1457672",
+                    "hashes": {
+                        "sha1": "4965d93eaeb3a37ba85303cce6c3809757e53d1d",
+                        "md5": "010046b3310a766dac6c469c8f3e714b"
+                    },
+                    "required_dependencies": [
+                        "859232"
+                    ],
+                    "size": 164483,
+                    "date_published": "2026-02-24T19:01:05.973Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "soPJjQ0KZ32rdrrA",
+            "pakku_links": [
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-wiki-gui"
+            },
+            "name": {
+                "curseforge": "Cobblemon Wiki Gui"
+            },
+            "id": {
+                "curseforge": "1042000"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CobblemonWikiGui-fabric-2.4.2+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7674/749/CobblemonWikiGui-fabric-2.4.2+1.21.1.jar",
+                    "id": "7674749",
+                    "parent_id": "1042000",
+                    "hashes": {
+                        "sha1": "f8704f4fa10d2539357c1009dca65e83b01d60b4",
+                        "md5": "76b95911ba7e21e7cde441c4df90b3f7"
+                    },
+                    "required_dependencies": [
+                        "687131"
+                    ],
+                    "size": 7760032,
+                    "date_published": "2026-02-25T00:30:05.123Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "KzVUXH7asppwKJy0",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-wonder-trade"
+            },
+            "name": {
+                "curseforge": "Cobblemon Wonder Trade"
+            },
+            "id": {
+                "curseforge": "1425541"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemon_wonder_trade-fabric-1.2.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7723/294/cobblemon_wonder_trade-fabric-1.2.1.jar",
+                    "id": "7723294",
+                    "parent_id": "1425541",
+                    "hashes": {
+                        "sha1": "e9b0f18c59d6ab7dc1495103d81fd49d705e6c60",
+                        "md5": "d40dc83d71d3f8b871eac2ee797461e4"
+                    },
+                    "required_dependencies": [],
+                    "size": 2363152,
+                    "date_published": "2026-03-07T08:33:12.053Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "qvybk3LtRVac1ElE",
+            "pakku_links": [
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-extra-structures"
+            },
+            "name": {
+                "curseforge": "Cobblemon: Extra Structures"
+            },
+            "id": {
+                "curseforge": "1202622"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemonextrastructures-1.21.1-1.2.0-fabric.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6992/419/cobblemonextrastructures-1.21.1-1.2.0-fabric.jar",
+                    "id": "6992419",
+                    "parent_id": "1202622",
+                    "hashes": {
+                        "sha1": "fcb873618ea68d132b8d9b251aec927713de648d",
+                        "md5": "ce6cb1b4f540803aaeb16c9491242352"
+                    },
+                    "required_dependencies": [
+                        "687131"
+                    ],
+                    "size": 892776,
+                    "date_published": "2025-09-13T12:36:05.180Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "wi5G6zfh6ARxJEji",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "legendary-monuments-cobblemon"
+            },
+            "name": {
+                "curseforge": "Cobblemon: Legendary Monuments"
+            },
+            "id": {
+                "curseforge": "1263645"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "LegendaryMonuments-7.8.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7564/172/LegendaryMonuments-7.8.jar",
+                    "id": "7564172",
+                    "parent_id": "1263645",
+                    "hashes": {
+                        "sha1": "97a76d52e5620dd0c354837dcf189d8894fea6cb",
+                        "md5": "642a6f183b26722f6d8bcbb5d549b0ee"
+                    },
+                    "required_dependencies": [],
+                    "size": 14683519,
+                    "date_published": "2026-02-02T01:51:08.307Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "xXXVQFVocwlYIK65",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-mega-showdown"
+            },
+            "name": {
+                "curseforge": "Cobblemon: Mega Showdown"
+            },
+            "id": {
+                "curseforge": "1189523"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "mega_showdown-fabric-1.6.12+1.7.3+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7643/896/mega_showdown-fabric-1.6.12+1.7.3+1.21.1.jar",
+                    "id": "7643896",
+                    "parent_id": "1189523",
+                    "hashes": {
+                        "sha1": "589af14f40b6d8ae133b24a0f90c1cfce00fec19",
+                        "md5": "2ab76063e58f96c88c3d9c2612c50955"
+                    },
+                    "required_dependencies": [
+                        "938917",
+                        "532610",
+                        "419699",
+                        "306612",
+                        "687131"
+                    ],
+                    "size": 16330490,
+                    "date_published": "2026-02-18T13:56:30.480Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "x3W3WTY32TbIAvKS",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-playerxp"
+            },
+            "name": {
+                "curseforge": "Cobblemon: PlayerXP"
+            },
+            "id": {
+                "curseforge": "1261726"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "playerxp-fabric-1.0.7+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7707/015/playerxp-fabric-1.0.7+1.21.1.jar",
+                    "id": "7707015",
+                    "parent_id": "1261726",
+                    "hashes": {
+                        "sha1": "34531cfdc41525335c03ea5b0bb7fc84d1f7eb78",
+                        "md5": "0e3316cc693908680e1f64506e208e19"
+                    },
+                    "required_dependencies": [],
+                    "size": 9944,
+                    "date_published": "2026-03-03T19:26:48.967Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "lG0mQWucPDaKGvED",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemonboss"
+            },
+            "name": {
+                "curseforge": "CobblemonBoss"
+            },
+            "id": {
+                "curseforge": "1383944"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemonboss-4.0.0-fabric.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7713/689/cobblemonboss-4.0.0-fabric.jar",
+                    "id": "7713689",
+                    "parent_id": "1383944",
+                    "hashes": {
+                        "sha1": "675b8149897395c835a187e69f51729a835e947b",
+                        "md5": "beb1e5ee47f43260140c9a3baae21dc7"
+                    },
+                    "required_dependencies": [],
+                    "size": 396777,
+                    "date_published": "2026-03-05T07:15:51.730Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "4XyTFh7B44UhXPZP",
+            "type": "DATA_PACK",
+            "slug": {
+                "curseforge": "cobblemoncitytowns"
+            },
+            "name": {
+                "curseforge": "CobblemonCityTowns"
+            },
+            "id": {
+                "curseforge": "1474379"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemoncitytowns.zip",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7692/448/cobblemoncitytowns.zip",
+                    "id": "7692448",
+                    "parent_id": "1474379",
+                    "hashes": {
+                        "sha1": "717dea926ed6baf36a7c3a1cb85bb39789e62b3a",
+                        "md5": "287dc92080b8f42c32cd5f46d7a938af"
+                    },
+                    "required_dependencies": [],
+                    "size": 1209080,
+                    "date_published": "2026-02-28T20:06:21.137Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "WsP2xAvJc7cRmhae",
+            "pakku_links": [
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "DATA_PACK",
+            "slug": {
+                "curseforge": "cobblemonmorecosmetics"
+            },
+            "name": {
+                "curseforge": "CobblemonMoreCosmetics"
+            },
+            "id": {
+                "curseforge": "1459814"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CobblemonMoreCosmetics Release v1.1.1-1.21.x.zip",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7609/364/CobblemonMoreCosmetics Release v1.1.1-1.21.x.zip",
+                    "id": "7609364",
+                    "parent_id": "1459814",
+                    "hashes": {
+                        "sha1": "97db48bab0931ce2c1982a3b7ea6ebd3da3eff4d",
+                        "md5": "14d3b1000370c5527d5c867e3544eba8"
+                    },
+                    "required_dependencies": [
+                        "687131"
+                    ],
+                    "size": 1133975,
+                    "date_published": "2026-02-11T13:45:59.313Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "hal4qbYFYqlnb6Ow",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "common-network"
+            },
+            "name": {
+                "curseforge": "Common Network"
+            },
+            "id": {
+                "curseforge": "806044"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "common-networking-fabric-1.0.21-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7087/484/common-networking-fabric-1.0.21-1.21.1.jar",
+                    "id": "7087484",
+                    "parent_id": "806044",
+                    "hashes": {
+                        "sha1": "93ea98654e7abadf54193d6471dcbc22fa7bde36",
+                        "md5": "b500fdeb0b05d0e69ee857f3c52cce06"
+                    },
+                    "required_dependencies": [],
+                    "size": 26540,
+                    "date_published": "2025-10-09T17:40:32.880Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Dbvtc1R5bLANtbGN",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "complete-cobblemon-collection-mod-version"
+            },
+            "name": {
+                "curseforge": "Complete Cobblemon Collection Mod Version"
+            },
+            "id": {
+                "curseforge": "1447622"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "complete-cobblemon-collection-w-legendary-spawns-2.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7544/95/complete-cobblemon-collection-w-legendary-spawns-2.0.jar",
+                    "id": "7544095",
+                    "parent_id": "1447622",
+                    "hashes": {
+                        "sha1": "0382076270577aaec6812e9a02e4473c93d25cc1",
+                        "md5": "8604223b8db413d9fdb9117d83012e37"
+                    },
+                    "required_dependencies": [],
+                    "size": 44827473,
+                    "date_published": "2026-01-29T03:21:57.467Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "QEt2MBdfIAywPCvd",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "controlling"
+            },
+            "name": {
+                "curseforge": "Controlling"
+            },
+            "id": {
+                "curseforge": "250398"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Controlling-fabric-1.21.1-19.0.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6368/974/Controlling-fabric-1.21.1-19.0.5.jar",
+                    "id": "6368974",
+                    "parent_id": "250398",
+                    "hashes": {
+                        "sha1": "22d2407311298d0185b606aa1dd03ae33b98dff3",
+                        "md5": "5660c1ed5fee202ca5ca9a617a4202b4"
+                    },
+                    "required_dependencies": [
+                        "858542",
+                        "306612"
+                    ],
+                    "size": 83679,
+                    "date_published": "2025-03-30T23:44:24.307Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "xfeO4m1ARgKiAW6Y",
+            "pakku_links": [
+                "rZFnjqRfgc3TFZUZ"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "crafting-tweaks"
+            },
+            "name": {
+                "curseforge": "Crafting Tweaks"
+            },
+            "id": {
+                "curseforge": "233071"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "craftingtweaks-fabric-1.21.1-21.1.7.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7530/376/craftingtweaks-fabric-1.21.1-21.1.7.jar",
+                    "id": "7530376",
+                    "parent_id": "233071",
+                    "hashes": {
+                        "sha1": "afad9dbf9ad58d2c4a109aa8508aa21cdfdf9179",
+                        "md5": "a23dc311e7b92abbece5c36b03264703"
+                    },
+                    "required_dependencies": [
+                        "500525",
+                        "306612"
+                    ],
+                    "size": 255008,
+                    "date_published": "2026-01-26T14:06:29.717Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "8B4bMVEDSqdIbQiq",
+            "pakku_links": [
+                "o4sAB7YyzQMSbTl7",
+                "lKOpiigZdfZUh9LV"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cristel-lib"
+            },
+            "name": {
+                "curseforge": "Cristel Lib"
+            },
+            "id": {
+                "curseforge": "856996"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cristellib-fabric-1.21.1-3.0.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7593/924/cristellib-fabric-1.21.1-3.0.3.jar",
+                    "id": "7593924",
+                    "parent_id": "856996",
+                    "hashes": {
+                        "sha1": "77829896819437a1f9aa242c52b8622f8a2884ec",
+                        "md5": "945ac7d49bcc065a7b3506ddc603d30d"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "306612"
+                    ],
+                    "size": 540121,
+                    "date_published": "2026-02-08T12:18:54.793Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bLw4N3QaUT5KYrH2",
+            "pakku_links": [
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "daycareplus"
+            },
+            "name": {
+                "curseforge": "Daycare+"
+            },
+            "id": {
+                "curseforge": "1342338"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "daycareplus-1.3.3+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7456/488/daycareplus-1.3.3+1.21.1.jar",
+                    "id": "7456488",
+                    "parent_id": "1342338",
+                    "hashes": {
+                        "sha1": "e6706836106b80c7659ca293c269d7c1c92106dc",
+                        "md5": "3e5bfde108b678a62f2b401691776d2e"
+                    },
+                    "required_dependencies": [
+                        "551890",
+                        "306612",
+                        "687131"
+                    ],
+                    "size": 558458,
+                    "date_published": "2026-01-14T00:15:47.877Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "XpVIp2T0TnnhAbln",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "e19-cobblemon-minimap-icons"
+            },
+            "name": {
+                "curseforge": "E19 - Cobblemon Minimap Icons"
+            },
+            "id": {
+                "curseforge": "958737"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "E19 Cobblemon Minimap Icons.zip",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7585/194/E19 Cobblemon Minimap Icons.zip",
+                    "id": "7585194",
+                    "parent_id": "958737",
+                    "hashes": {
+                        "sha1": "1aefc7a313b3c6f719d2fa53916afff18cd0792f",
+                        "md5": "790d4b235650a8c637cd59dea859a273"
+                    },
+                    "required_dependencies": [],
+                    "size": 19398814,
+                    "date_published": "2026-02-06T17:25:57.430Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "gthfjfVCTSSGYpN7",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "emi"
+            },
+            "name": {
+                "curseforge": "EMI"
+            },
+            "id": {
+                "curseforge": "580555"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "emi-1.1.22+1.21.1+fabric.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6420/930/emi-1.1.22+1.21.1+fabric.jar",
+                    "id": "6420930",
+                    "parent_id": "580555",
+                    "hashes": {
+                        "sha1": "45550eada92c711d982a6fffb1f718fe12f07aee",
+                        "md5": "120109cc4661ad8e49713801b90e942c"
+                    },
+                    "required_dependencies": [],
+                    "size": 1025303,
+                    "date_published": "2025-04-14T03:34:36.127Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "5k7OSw4RtimepiOR",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "entityculling"
+            },
+            "name": {
+                "curseforge": "Entity Culling Fabric/Forge"
+            },
+            "id": {
+                "curseforge": "448233"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "entityculling-fabric-1.9.5-mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7396/687/entityculling-fabric-1.9.5-mc1.21.1.jar",
+                    "id": "7396687",
+                    "parent_id": "448233",
+                    "hashes": {
+                        "sha1": "dffd306c5aeba040595e2f02badf441db638624b",
+                        "md5": "fa490d1bdbb00c612dead5ab52b0b323"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1560675,
+                    "date_published": "2025-12-30T15:26:12.543Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "e172Gn7L1nNelpUt",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "extra-origins"
+            },
+            "name": {
+                "curseforge": "Extra Origins"
+            },
+            "id": {
+                "curseforge": "398419"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "extraorigins-1.21.1-r1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7486/55/extraorigins-1.21.1-r1.jar",
+                    "id": "7486055",
+                    "parent_id": "398419",
+                    "hashes": {
+                        "sha1": "47b3e6631476faa57f2fa87250991d286171762b",
+                        "md5": "25bdf030f5f96c23cc7d78605b2ffe7e"
+                    },
+                    "required_dependencies": [
+                        "391943",
+                        "306612"
+                    ],
+                    "size": 164924,
+                    "date_published": "2026-01-19T04:59:31.210Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "o4sAB7YyzQMSbTl7",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "fabric-api"
+            },
+            "name": {
+                "curseforge": "Fabric API"
+            },
+            "id": {
+                "curseforge": "306612"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fabric-api-0.116.9+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7680/396/fabric-api-0.116.9+1.21.1.jar",
+                    "id": "7680396",
+                    "parent_id": "306612",
+                    "hashes": {
+                        "sha1": "e41cb63b923a6064021c5a30afa4e844b82ca6e9",
+                        "md5": "b7ce8a460c6c9d4538536730864dd818"
+                    },
+                    "required_dependencies": [],
+                    "size": 2425600,
+                    "date_published": "2026-02-26T09:05:18.707Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "qcNHJXukzfUkH4K9",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "fabric-language-kotlin"
+            },
+            "name": {
+                "curseforge": "Fabric Language Kotlin"
+            },
+            "id": {
+                "curseforge": "308769"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.8",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.1",
+                        "1.21.6",
+                        "1.21.3",
+                        "1.21.7",
+                        "1.21.2",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7583/523/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
+                    "id": "7583523",
+                    "parent_id": "308769",
+                    "hashes": {
+                        "sha1": "20b2200961e11994595ebb2d5f6624f232d13751",
+                        "md5": "5a82c29fbbfdd3acbb9da9229ae0e32d"
+                    },
+                    "required_dependencies": [],
+                    "size": 7642216,
+                    "date_published": "2026-02-06T09:24:21.213Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "gsa5Jhygp6GfhDWh",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "forge-config-api-port"
+            },
+            "name": {
+                "curseforge": "Forge Config API Port"
+            },
+            "id": {
+                "curseforge": "547434"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7213/608/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+                    "id": "7213608",
+                    "parent_id": "547434",
+                    "hashes": {
+                        "sha1": "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee",
+                        "md5": "eba1a7f9d9976e983a2b9eb5e915e087"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 633065,
+                    "date_published": "2025-11-12T09:00:04.797Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "a6sXryDltHUTO3P5",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "geckolib"
+            },
+            "name": {
+                "curseforge": "GeckoLib"
+            },
+            "id": {
+                "curseforge": "388172"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "geckolib-fabric-1.21.1-4.8.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7707/138/geckolib-fabric-1.21.1-4.8.4.jar",
+                    "id": "7707138",
+                    "parent_id": "388172",
+                    "hashes": {
+                        "sha1": "4285fbb6222b5b49869aea8a3a2f67c086b1c8bc",
+                        "md5": "0044e7b8b4d4096257031692f5995a2c"
+                    },
+                    "required_dependencies": [],
+                    "size": 653722,
+                    "date_published": "2026-03-03T20:04:13.383Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "LNxQabEBAehatosO",
+            "pakku_links": [
+                "hal4qbYFYqlnb6Ow",
+                "tdRvkhSV07LUA3Jl"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "icarus"
+            },
+            "name": {
+                "curseforge": "Icarus"
+            },
+            "id": {
+                "curseforge": "428151"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Icarus-Fabric-4.6.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7397/411/Icarus-Fabric-4.6.4.jar",
+                    "id": "7397411",
+                    "parent_id": "428151",
+                    "hashes": {
+                        "sha1": "7bdd1b1a99ebaaaaf17bb0d591acc2456ebd1ea2",
+                        "md5": "ac937589d6f8b6dfbf2bd810018f5ccc"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "806044",
+                        "341284",
+                        "714059",
+                        "911456"
+                    ],
+                    "size": 464761,
+                    "date_published": "2025-12-30T18:53:01.917Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "7lu16Z9e2ALHfPas",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "jade"
+            },
+            "name": {
+                "curseforge": "Jade 🔍"
+            },
+            "id": {
+                "curseforge": "324717"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Jade-1.21.1-Fabric-15.10.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7545/228/Jade-1.21.1-Fabric-15.10.5.jar",
+                    "id": "7545228",
+                    "parent_id": "324717",
+                    "hashes": {
+                        "sha1": "ec3bf463b891c2b2400ed5bb01c0b3d67de4170a",
+                        "md5": "a9c20c6a83e08abed4aa62dfa5e608ad"
+                    },
+                    "required_dependencies": [],
+                    "size": 739009,
+                    "date_published": "2026-01-29T11:13:09.267Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "01IPxFIyOBqYwFjJ",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "jei"
+            },
+            "name": {
+                "curseforge": "Just Enough Items (JEI)"
+            },
+            "id": {
+                "curseforge": "238222"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "jei-1.21.1-fabric-19.27.0.336.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7391/679/jei-1.21.1-fabric-19.27.0.336.jar",
+                    "id": "7391679",
+                    "parent_id": "238222",
+                    "hashes": {
+                        "sha1": "3288d13c2330821cb50329963e0126fd1fa295a2",
+                        "md5": "b4988fdc0d53bc418d6285e4b3d4bf16"
+                    },
+                    "required_dependencies": [],
+                    "size": 1561528,
+                    "date_published": "2025-12-29T08:39:08.640Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ZRqvXPEXEsRM7zxV",
+            "pakku_links": [
+                "lKOpiigZdfZUh9LV"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "lootr-fabric"
+            },
+            "name": {
+                "curseforge": "Lootr (Fabric)"
+            },
+            "id": {
+                "curseforge": "615106"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lootr-fabric-1.21.1-1.11.36.116.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7666/213/lootr-fabric-1.21.1-1.11.36.116.jar",
+                    "id": "7666213",
+                    "parent_id": "615106",
+                    "hashes": {
+                        "sha1": "4343c02f6f8ad3230efa45b77ff06d38941d1963",
+                        "md5": "6cde3d3ad93370d46cb82823ec24ca82"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "306612"
+                    ],
+                    "size": 1012972,
+                    "date_published": "2026-02-23T02:33:52.373Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "3EIBWVBBjOMIe6od",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "lootrmon"
+            },
+            "name": {
+                "curseforge": "Lootrmon: Lootr & Cobblemon Compatibility"
+            },
+            "id": {
+                "curseforge": "1405644"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lootrmon-fabric-1.21.1-0.0.0.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7339/628/lootrmon-fabric-1.21.1-0.0.0.1.jar",
+                    "id": "7339628",
+                    "parent_id": "1405644",
+                    "hashes": {
+                        "sha1": "140d8d8dd08261eb5f1b3e835f6848ca710c3f5a",
+                        "md5": "2911d5c509d702dd7270aecea81d0731"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "687131",
+                        "348521",
+                        "361276"
+                    ],
+                    "size": 118905,
+                    "date_published": "2025-12-16T07:13:37.933Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "FFLbtHy8VdKqtVHx",
+            "pakku_links": [
+                "ZTDNigJqkXamVLay"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "medieval-origins-revival"
+            },
+            "name": {
+                "curseforge": "Medieval Origins Revival"
+            },
+            "id": {
+                "curseforge": "897171"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "medievalorigins-7.0.4-pre.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7381/71/medievalorigins-7.0.4-pre.1.jar",
+                    "id": "7381071",
+                    "parent_id": "897171",
+                    "hashes": {
+                        "sha1": "d35f5b31e9af7b6ff0face3af0b502f471bd19d8",
+                        "md5": "2fabff92eee26002049a3b2a1331ea2f"
+                    },
+                    "required_dependencies": [
+                        "391943",
+                        "807653"
+                    ],
+                    "size": 3354366,
+                    "date_published": "2025-12-26T15:40:19.680Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "VwvmMk9uEJQYolnB",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "modernfix"
+            },
+            "name": {
+                "curseforge": "ModernFix"
+            },
+            "id": {
+                "curseforge": "790626"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7200/210/modernfix-fabric-5.25.1+mc1.21.1.jar",
+                    "id": "7200210",
+                    "parent_id": "790626",
+                    "hashes": {
+                        "sha1": "4ab39e9c736e7204146792c545ec5b29fc0a3872",
+                        "md5": "17260c894041b7b4a1b1f2fd1a8f1a8b"
+                    },
+                    "required_dependencies": [],
+                    "size": 471258,
+                    "date_published": "2025-11-08T20:04:47.937Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "cWy4XXHa2kweoTK6",
+            "pakku_links": [
+                "9vVILmBtXiVZ30Q3",
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "morecobblemontweaks"
+            },
+            "name": {
+                "curseforge": "MoreCobblemonTweaks"
+            },
+            "id": {
+                "curseforge": "1082538"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MoreCobblemonTweaks-fabric-1.3.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7593/364/MoreCobblemonTweaks-fabric-1.3.3.jar",
+                    "id": "7593364",
+                    "parent_id": "1082538",
+                    "hashes": {
+                        "sha1": "1c1ce65f40b9409c209608680060866c2aaa1eb9",
+                        "md5": "8c9e870b8dc446ffdc98d106f65da075"
+                    },
+                    "required_dependencies": [
+                        "419699",
+                        "687131"
+                    ],
+                    "size": 137626,
+                    "date_published": "2026-02-08T09:47:21.873Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "1SqiTqp6Xu9cfgqe",
+            "type": "DATA_PACK",
+            "slug": {
+                "curseforge": "morerecipes-cobblemon"
+            },
+            "name": {
+                "curseforge": "MoreRecipes [Cobblemon]"
+            },
+            "id": {
+                "curseforge": "1198360"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MoreRecipes 1.2.zip",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6730/834/MoreRecipes 1.2.zip",
+                    "id": "6730834",
+                    "parent_id": "1198360",
+                    "hashes": {
+                        "sha1": "58b3b0a596cccbb35a95f7a8f262f9f7e5e17d46",
+                        "md5": "7de66d3f65c37e31a8ad338015f5eb30"
+                    },
+                    "required_dependencies": [],
+                    "size": 13293,
+                    "date_published": "2025-07-04T20:29:40.510Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "qpDlaUCwusRW6mdo",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "mouse-tweaks"
+            },
+            "name": {
+                "curseforge": "Mouse Tweaks"
+            },
+            "id": {
+                "curseforge": "60089"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MouseTweaks-fabric-mc1.21-2.26.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5437/294/MouseTweaks-fabric-mc1.21-2.26.jar",
+                    "id": "5437294",
+                    "parent_id": "60089",
+                    "hashes": {
+                        "sha1": "ee81af33a5606ef2cd057e075833d7c69836c210",
+                        "md5": "1d39ead1641ef522bc7ae92383f21da8"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 75984,
+                    "date_published": "2024-06-17T08:20:49.250Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "BgqUf4Ca7aqeWaOL",
+            "pakku_links": [
+                "9vVILmBtXiVZ30Q3",
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "myths-and-legends-cobblemon-addon"
+            },
+            "name": {
+                "curseforge": "Myths and Legends [Cobblemon Sidemod]"
+            },
+            "id": {
+                "curseforge": "1037337"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MythsAndLegends-fabric-1.9.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7255/748/MythsAndLegends-fabric-1.9.0.jar",
+                    "id": "7255748",
+                    "parent_id": "1037337",
+                    "hashes": {
+                        "sha1": "9acdd403a8c1a5544d7f779f301c5f3630d0a211",
+                        "md5": "834973489f5cd619accf1f74ee301c0f"
+                    },
+                    "required_dependencies": [
+                        "687131",
+                        "419699"
+                    ],
+                    "size": 3249725,
+                    "date_published": "2025-11-24T00:19:47.900Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "2t52rmh3mBxKDOjD",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "natures-compass"
+            },
+            "name": {
+                "curseforge": "Nature's Compass"
+            },
+            "id": {
+                "curseforge": "252848"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "NaturesCompass-1.21.1-2.2.7-fabric.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5756/913/NaturesCompass-1.21.1-2.2.7-fabric.jar",
+                    "id": "5756913",
+                    "parent_id": "252848",
+                    "hashes": {
+                        "sha1": "c705431dd94ae496fb527a4c36855c86fd8ef987",
+                        "md5": "c17943653b243e6b9d86e5122ff63931"
+                    },
+                    "required_dependencies": [],
+                    "size": 223976,
+                    "date_published": "2024-09-25T23:27:27.293Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "rySzSiNdywQy0MLQ",
+            "pakku_links": [
+                "xXXVQFVocwlYIK65"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "navas-za-megas"
+            },
+            "name": {
+                "curseforge": "Navas ZA Megas"
+            },
+            "id": {
+                "curseforge": "1452045"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "zamega-fabric-1.6.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7708/926/zamega-fabric-1.6.1.jar",
+                    "id": "7708926",
+                    "parent_id": "1452045",
+                    "hashes": {
+                        "sha1": "3a2ab9db634dcc07596019188fb212b22db1d29a",
+                        "md5": "82b6ac52c1a445020a3c27b353939711"
+                    },
+                    "required_dependencies": [
+                        "1189523",
+                        "419699",
+                        "532610",
+                        "938917",
+                        "306612",
+                        "687131"
+                    ],
+                    "size": 2369042,
+                    "date_published": "2026-03-04T06:52:50.867Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "6kyYENzChb4NO49c",
+            "pakku_links": [
+                "gsa5Jhygp6GfhDWh"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "open-parties-and-claims"
+            },
+            "name": {
+                "curseforge": "Open Parties and Claims"
+            },
+            "id": {
+                "curseforge": "636608"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "open-parties-and-claims-fabric-1.21.1-0.25.10.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7652/892/open-parties-and-claims-fabric-1.21.1-0.25.10.jar",
+                    "id": "7652892",
+                    "parent_id": "636608",
+                    "hashes": {
+                        "sha1": "3fd248e99af33b9b54eef6e8ff2bc5a6a9ee9a61",
+                        "md5": "da4224a76c8963b573390b0475daa8e2"
+                    },
+                    "required_dependencies": [
+                        "547434",
+                        "306612"
+                    ],
+                    "size": 1389825,
+                    "date_published": "2026-02-20T10:51:24.853Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "TrbgvnaCfD3Ecs2V",
+            "pakku_links": [
+                "o4sAB7YyzQMSbTl7"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "origins"
+            },
+            "name": {
+                "curseforge": "Origins (Fabric)"
+            },
+            "id": {
+                "curseforge": "391943"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Origins-1.13.0-pre.1+mc.1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7365/871/Origins-1.13.0-pre.1+mc.1.21.1.jar",
+                    "id": "7365871",
+                    "parent_id": "391943",
+                    "hashes": {
+                        "sha1": "f3699feb4d4c9f2e7fbb9b8844ed50be659831a6",
+                        "md5": "c9170ae54e295256d43624101e8e869c"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 4646845,
+                    "date_published": "2025-12-22T16:12:20.223Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ay4YURW3X9rlQ3Wf",
+            "pakku_links": [
+                "bFZXk1UrC0oFc8Ib"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "paxi-fabric"
+            },
+            "name": {
+                "curseforge": "Paxi (Fabric)"
+            },
+            "id": {
+                "curseforge": "418881"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Paxi-1.21.1-Fabric-5.1.3.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6485/738/Paxi-1.21.1-Fabric-5.1.3.jar",
+                    "id": "6485738",
+                    "parent_id": "418881",
+                    "hashes": {
+                        "sha1": "e91042c9cc9f358776afe3b69af73e6e38038cdd",
+                        "md5": "f341aedaf0e882baa9df180a7f82d2cd"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "421649",
+                        "306612"
+                    ],
+                    "size": 230652,
+                    "date_published": "2025-05-01T22:51:27.887Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "EuGlSirtVq2dMlvk",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "polymer"
+            },
+            "name": {
+                "curseforge": "Polymer"
+            },
+            "id": {
+                "curseforge": "551890"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "polymer-bundled-0.9.19+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7448/53/polymer-bundled-0.9.19+1.21.1.jar",
+                    "id": "7448053",
+                    "parent_id": "551890",
+                    "hashes": {
+                        "sha1": "15a58f43a672ed486bee4f7983ae8ff566a6b5e7",
+                        "md5": "abb2034b3f2d9c59819249458eb1c0f3"
+                    },
+                    "required_dependencies": [],
+                    "size": 1705944,
+                    "date_published": "2026-01-11T21:28:45.857Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "SEPjlV2s0wxE5fX4",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "polymorph"
+            },
+            "name": {
+                "curseforge": "Polymorph (Fabric/Forge/Quilt)"
+            },
+            "id": {
+                "curseforge": "388800"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "polymorph-fabric-1.1.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6794/587/polymorph-fabric-1.1.0+1.21.1.jar",
+                    "id": "6794587",
+                    "parent_id": "388800",
+                    "hashes": {
+                        "sha1": "e4f9ec40058c07f263d19b21e438b5204ea4dc22",
+                        "md5": "e20d82ea6bd4ac0c82fdbd032b39e8fc"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 320928,
+                    "date_published": "2025-07-21T10:56:16.037Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "YhQDjeGAazA8bPSw",
+            "pakku_links": [
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "rad-gyms-cobblemon"
+            },
+            "name": {
+                "curseforge": "Rad Gyms [Cobblemon]"
+            },
+            "id": {
+                "curseforge": "1196570"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "rad-gyms-fabric-0.4.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7674/963/rad-gyms-fabric-0.4.4.jar",
+                    "id": "7674963",
+                    "parent_id": "1196570",
+                    "hashes": {
+                        "sha1": "9bdb1d497a94cc47902a75e56c752b0f613ff6c4",
+                        "md5": "0b01656fefdae835a7af8ab2ad8a2838"
+                    },
+                    "required_dependencies": [
+                        "1152792",
+                        "687131",
+                        "419699"
+                    ],
+                    "size": 1044530,
+                    "date_published": "2026-02-25T01:52:46.297Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "zbord2m1yC4nHYOs",
+            "pakku_links": [
+                "9vVILmBtXiVZ30Q3",
+                "QB0QUFN9x9ngNYwA"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "radical-cobblemon-trainers-api"
+            },
+            "name": {
+                "curseforge": "Radical Cobblemon Trainers API"
+            },
+            "id": {
+                "curseforge": "1152792"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "rctapi-fabric-1.21.1-0.14.8-beta.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7621/870/rctapi-fabric-1.21.1-0.14.8-beta.jar",
+                    "id": "7621870",
+                    "parent_id": "1152792",
+                    "hashes": {
+                        "sha1": "f9b4f8dd9ef58e8faf61151b8a5656f918171c34",
+                        "md5": "ccb680ea69ae5e167a920a4de47ef22d"
+                    },
+                    "required_dependencies": [
+                        "687131",
+                        "419699"
+                    ],
+                    "size": 229381,
+                    "date_published": "2026-02-14T02:21:45Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "l4Cmw1Maqmk8wnpi",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "resourceful-config"
+            },
+            "name": {
+                "curseforge": "Resourceful Config"
+            },
+            "id": {
+                "curseforge": "714059"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "resourcefulconfig-fabric-1.21-3.0.11.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6467/774/resourcefulconfig-fabric-1.21-3.0.11.jar",
+                    "id": "6467774",
+                    "parent_id": "714059",
+                    "hashes": {
+                        "sha1": "f6a0df7cf464d1c94458ef075bead82033add9c9",
+                        "md5": "1ee62431638048c9c8188988a38b12bb"
+                    },
+                    "required_dependencies": [],
+                    "size": 345396,
+                    "date_published": "2025-04-26T17:59:08.787Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "OB7NfqeQSXnVbOXL",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "resourceful-lib"
+            },
+            "name": {
+                "curseforge": "Resourceful Lib"
+            },
+            "id": {
+                "curseforge": "570073"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "resourcefullib-fabric-1.21-3.0.12.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5973/189/resourcefullib-fabric-1.21-3.0.12.jar",
+                    "id": "5973189",
+                    "parent_id": "570073",
+                    "hashes": {
+                        "sha1": "cb67e1302b5116953f45556cc61dbcf40d986ecd",
+                        "md5": "89dac4248b76747800fbc00fa063825e"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 485586,
+                    "date_published": "2024-12-08T04:44:15.767Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "USBpGLniQNeegxSB",
+            "type": "DATA_PACK",
+            "slug": {
+                "curseforge": "revamped-cobblemon-outbreaks-no-cap"
+            },
+            "name": {
+                "curseforge": "Revamped Cobblemon Outbreaks - No Caps"
+            },
+            "id": {
+                "curseforge": "1319164"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Revamped Cobblemon Outbreaks No Caps - neoforge 1.21 - v1.4.zip",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7341/230/Revamped Cobblemon Outbreaks No Caps - neoforge 1.21 - v1.4.zip",
+                    "id": "7341230",
+                    "parent_id": "1319164",
+                    "hashes": {
+                        "sha1": "b4c1af265d3d06808fee73c7ab6e2b880f338ec9",
+                        "md5": "73dcd406eb40c889815e9c874806f8c5"
+                    },
+                    "required_dependencies": [],
+                    "size": 290788,
+                    "date_published": "2025-12-16T18:40:48.127Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Na4GcQTBqiIB7aYi",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "searchables"
+            },
+            "name": {
+                "curseforge": "Searchables"
+            },
+            "id": {
+                "curseforge": "858542"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Searchables-fabric-1.21.1-1.0.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5831/690/Searchables-fabric-1.21.1-1.0.2.jar",
+                    "id": "5831690",
+                    "parent_id": "858542",
+                    "hashes": {
+                        "sha1": "2777db0b967e80e0659053154f32f14a0e99a7a7",
+                        "md5": "33d8f858261d757ef89144ac13013987"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 79531,
+                    "date_published": "2024-10-21T20:44:34.843Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "1ts9P2C2PSbXy3Hy",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "simpletms-tms-and-trs-for-cobblemon"
+            },
+            "name": {
+                "curseforge": "SimpleTMs: TMs and TRs for Cobblemon"
+            },
+            "id": {
+                "curseforge": "959184"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "SimpleTMs-fabric-2.3.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7319/642/SimpleTMs-fabric-2.3.3.jar",
+                    "id": "7319642",
+                    "parent_id": "959184",
+                    "hashes": {
+                        "sha1": "3433763bf6e20639213fd31a45da187968e61ffe",
+                        "md5": "9a9d474ca102e1d04fa89926fa837896"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "419699",
+                        "687131"
+                    ],
+                    "size": 821382,
+                    "date_published": "2025-12-11T07:06:42.573Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "T7wRegWO3gD5jPwZ",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "sodium"
+            },
+            "name": {
+                "curseforge": "Sodium"
+            },
+            "id": {
+                "curseforge": "394468"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sodium-fabric-0.6.13+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6382/649/sodium-fabric-0.6.13+mc1.21.1.jar",
+                    "id": "6382649",
+                    "parent_id": "394468",
+                    "hashes": {
+                        "sha1": "928a2598178c3a58b0638bab842f467d2e49251a",
+                        "md5": "aa37ba0048a1af6b554b137088cad484"
+                    },
+                    "required_dependencies": [],
+                    "size": 1297761,
+                    "date_published": "2025-04-04T00:13:25Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "tdRvkhSV07LUA3Jl",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "sparkweave"
+            },
+            "name": {
+                "curseforge": "Sparkweave Engine"
+            },
+            "id": {
+                "curseforge": "911456"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Sparkweave-Fabric-0.510.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6774/233/Sparkweave-Fabric-0.510.0.jar",
+                    "id": "6774233",
+                    "parent_id": "911456",
+                    "hashes": {
+                        "sha1": "f291914015445b4fcb43ff0f4e947c34b1f0435e",
+                        "md5": "82f9ceace4710e58846cdbc9697f5576"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 273861,
+                    "date_published": "2025-07-16T06:26:40.557Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ZTDNigJqkXamVLay",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "spell-engine"
+            },
+            "name": {
+                "curseforge": "Spell Engine"
+            },
+            "id": {
+                "curseforge": "807653"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "spell_engine-fabric-1.9.5+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7712/67/spell_engine-fabric-1.9.5+1.21.1.jar",
+                    "id": "7712067",
+                    "parent_id": "807653",
+                    "hashes": {
+                        "sha1": "faab755f649d72d373f103d44921da85bafd043b",
+                        "md5": "979f0eb662e16f0d166bbb6c06f553ee"
+                    },
+                    "required_dependencies": [
+                        "771265",
+                        "341284",
+                        "658587",
+                        "348521",
+                        "306612"
+                    ],
+                    "size": 3849104,
+                    "date_published": "2026-03-04T22:39:23.677Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "7Yw2Ts1HfZbq6xU5",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "spell-power"
+            },
+            "name": {
+                "curseforge": "Spell Power Attributes"
+            },
+            "id": {
+                "curseforge": "771265"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "spell_power-fabric-1.4.6+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7303/956/spell_power-fabric-1.4.6+1.21.1.jar",
+                    "id": "7303956",
+                    "parent_id": "771265",
+                    "hashes": {
+                        "sha1": "dd4051436cd5a1ca98d5f21b6edb59c2c3518afe",
+                        "md5": "15f784f0d528c39f1d977d50e5fea17c"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 200695,
+                    "date_published": "2025-12-07T11:58:45.513Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "I4nvUualbKd1XE95",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "terrablender-fabric"
+            },
+            "name": {
+                "curseforge": "TerraBlender (Fabric)"
+            },
+            "id": {
+                "curseforge": "565956"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "TerraBlender-fabric-1.21.1-4.1.0.8.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6054/948/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
+                    "id": "6054948",
+                    "parent_id": "565956",
+                    "hashes": {
+                        "sha1": "cbaea35f0d8a7b90593d5c0fd06535a875d152a8",
+                        "md5": "cf9f9ea80cd7f8febebbe1752f23b68f"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 337989,
+                    "date_published": "2025-01-05T04:27:16.397Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "V2x9KNIa13G36x3c",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "terralith"
+            },
+            "name": {
+                "curseforge": "Terralith"
+            },
+            "id": {
+                "curseforge": "513688"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Terralith_1.21.x_v2.5.8.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.4",
+                        "1.21.3",
+                        "1.21.1",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6090/387/Terralith_1.21.x_v2.5.8.jar",
+                    "id": "6090387",
+                    "parent_id": "513688",
+                    "hashes": {
+                        "sha1": "bee0cfb1a8cd4bf3d96bccea224fb45d74de9085",
+                        "md5": "93dd6c7f8824e531fedaf37fd23f5c99"
+                    },
+                    "required_dependencies": [],
+                    "size": 3115385,
+                    "date_published": "2025-01-15T16:45:25.117Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "dfEeg7QBRKXhKpOR",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "trinkets"
+            },
+            "name": {
+                "curseforge": "Trinkets (Fabric)"
+            },
+            "id": {
+                "curseforge": "341284"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "trinkets-3.10.0.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5534/317/trinkets-3.10.0.jar",
+                    "id": "5534317",
+                    "parent_id": "341284",
+                    "hashes": {
+                        "sha1": "f54756f938c7c273713b9f97d4a987eec551e892",
+                        "md5": "4a42e243d6d5c25dea83be3ddc0b28b1"
+                    },
+                    "required_dependencies": [],
+                    "size": 272944,
+                    "date_published": "2024-07-15T11:00:45.040Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "tdUeqRXgJO1I7ypU",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "waystones"
+            },
+            "name": {
+                "curseforge": "Waystones"
+            },
+            "id": {
+                "curseforge": "245755"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "waystones-fabric-1.21.1-21.1.28.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7682/262/waystones-fabric-1.21.1-21.1.28.jar",
+                    "id": "7682262",
+                    "parent_id": "245755",
+                    "hashes": {
+                        "sha1": "dfe6379bb15ac976bce58399165be55f8b134251",
+                        "md5": "7bc40dc4b8880bd2bf88748fc67422ad"
+                    },
+                    "required_dependencies": [
+                        "500525",
+                        "306612"
+                    ],
+                    "size": 898196,
+                    "date_published": "2026-02-26T17:33:04.290Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "DHExYSx7RXqqLhkX",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "expanded-ecosphere"
+            },
+            "name": {
+                "curseforge": "William Wythers' Expanded Ecosphere"
+            },
+            "id": {
+                "curseforge": "490686"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "expanded_ecosphere-fabric-3.4.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7294/367/expanded_ecosphere-fabric-3.4.5.jar",
+                    "id": "7294367",
+                    "parent_id": "490686",
+                    "hashes": {
+                        "sha1": "921c9a9b4cea146c9afa24af88f5439719593117",
+                        "md5": "c51425a00e7424f3ca849e9a8df8ab5d"
+                    },
+                    "required_dependencies": [],
+                    "size": 1814706,
+                    "date_published": "2025-12-04T18:00:02.693Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "3RfDbaEAB9Ui1ZuZ",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "xaeros-minimap"
+            },
+            "name": {
+                "curseforge": "Xaero's Minimap"
+            },
+            "id": {
+                "curseforge": "263420"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "xaerominimap-fabric-1.21.1-25.3.10.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7598/600/xaerominimap-fabric-1.21.1-25.3.10.jar",
+                    "id": "7598600",
+                    "parent_id": "263420",
+                    "hashes": {
+                        "sha1": "a231fa03625036fb8118a1a5981f22eac54c3597",
+                        "md5": "0ae4f63c97b972ef3fdcd918c924feb5"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 2177333,
+                    "date_published": "2026-02-09T09:31:20.650Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "EWOkFyq0jmR5JwTn",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "xaeros-world-map"
+            },
+            "name": {
+                "curseforge": "Xaero's World Map"
+            },
+            "id": {
+                "curseforge": "317780"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "xaeroworldmap-fabric-1.21.1-1.40.11.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7598/489/xaeroworldmap-fabric-1.21.1-1.40.11.jar",
+                    "id": "7598489",
+                    "parent_id": "317780",
+                    "hashes": {
+                        "sha1": "879469ab8b697796219254a097d00ff48cabf3c5",
+                        "md5": "bb6a594507dc9db0a981b2a2d6cf910c"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1413973,
+                    "date_published": "2026-02-09T08:47:15.647Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bFZXk1UrC0oFc8Ib",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "yungs-api-fabric"
+            },
+            "name": {
+                "curseforge": "YUNG's API (Fabric)"
+            },
+            "id": {
+                "curseforge": "421649"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "YungsApi-1.21.1-Fabric-5.1.6.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6715/461/YungsApi-1.21.1-Fabric-5.1.6.jar",
+                    "id": "6715461",
+                    "parent_id": "421649",
+                    "hashes": {
+                        "sha1": "771a83c415c58ead861a6a7674c676e31d7573c0",
+                        "md5": "117aa2db815986b1346ff6464d99aa6f"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1257492,
+                    "date_published": "2025-07-01T07:07:56.013Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "3KeF0DX1Nz1WxaJJ",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "owo-lib"
+            },
+            "name": {
+                "curseforge": "oωo (owo-lib)"
+            },
+            "id": {
+                "curseforge": "532610"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "owo-lib-0.12.15.4+1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6446/6/owo-lib-0.12.15.4+1.21.jar",
+                    "id": "6446006",
+                    "parent_id": "532610",
+                    "hashes": {
+                        "sha1": "45725e6d33b624e565a7a6e5d3627af40814288d",
+                        "md5": "3627aee17111e12a8c66928f5d7a3fba"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1183559,
+                    "date_published": "2025-04-20T23:53:17.673Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "wOCOE9DFPtqx0SMi",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "playeranimator"
+            },
+            "name": {
+                "curseforge": "playerAnimator"
+            },
+            "id": {
+                "curseforge": "658587"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "player-animation-lib-fabric-2.0.4+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7389/821/player-animation-lib-fabric-2.0.4+1.21.1.jar",
+                    "id": "7389821",
+                    "parent_id": "658587",
+                    "hashes": {
+                        "sha1": "2985c208766cde078a39c22b5ad989b74b7bc490",
+                        "md5": "93e684b0c741294dc2ac7e6b1f958dd2"
+                    },
+                    "required_dependencies": [],
+                    "size": 204541,
+                    "date_published": "2025-12-28T21:01:29.280Z"
+                }
+            ]
+        }
+    ],
+    "lockfile_version": 1
+}
