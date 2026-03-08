@@ -1,0 +1,6 @@
+.pakku/
+/minecraft/mods/
+/minecraft/resourcepacks/
+/minecraft/shaderpacks/
+build/
+*.log
